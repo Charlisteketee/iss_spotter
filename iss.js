@@ -31,7 +31,7 @@ const nextISSTimesForMyLocation = function(callback) {
         callback(null, passTimes);
       });
     });
-  })
+  });
 };
 
 
